@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">ZavrsnoZavrsni</string>
     <string name="activity_main_toolbar_title">Toolbar Title</string>
+    <string name="fragment_detal_action_add">add</string>
+
+    <string name="dialog_about_title">About</string>
+    <string name="dialog_about_message">This is Example18 app which demonstrates usage of toasts, notifications, dialogs, preferences, toolbars and navigation drawers</string>
+    <string name="dialog_about_yes">OK</string>
+    <string name="dialog_about_no">Cancel</string>
 
 </resources>
